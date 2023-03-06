@@ -64,9 +64,5 @@ int main(int argc, char ** argv)
     // 【3】等待任意按键按下
     waitKey(0);
     return 0;
-}#include <iostream>
-
-int main() {
-    std::cout << "Hello, World!" << std::endl;
-    return 0;
 }
+
